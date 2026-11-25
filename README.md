@@ -50,8 +50,11 @@ plt.show()
 
 ## Output
 </br>
-<img width="951" height="587" alt="Screenshot 2026-11-24 121650" src="https://github.com/user-attachments/assets/ef3d995e-a1f9-4c56-a564-747303e2902a" />
-<img width="742" height="512" alt="Screenshot 2026-11-24 122126" src="https://github.com/user-attachments/assets/6b5741e3-4b9a-4304-ad74-5dffcaede5b9" />
+
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/d7ca74e5-97d9-4164-88d1-241e0306ae08" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/1487a7a9-4d47-46f1-8c3f-4f9d8997db49" />
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/625b0dc6-0419-40e6-b2e9-9c7ee9b06294" />
+
 
 </br>
 </br>
